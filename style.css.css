@@ -1,0 +1,36 @@
+img{
+    border-radius: 20%
+  }
+h2 {
+    color: #080808
+    position : relative;
+    bottom: 1px;
+    left: 460px;
+  }
+p{
+    color:paleturquoise
+}
+body>p {
+    background-color:brown;
+  }
+ul{
+    background-color:brown;
+    color:paleturquoise
+}
+table{
+    color: #080808
+    background-color:brown;
+}
+a:visited {
+	color: rgb(56, 11, 180);
+}
+div em {
+	color: rgb(226, 178, 194);
+}
+input{
+    border-color:  rosybrown
+    border-width: 2px;
+  }
+fieldset{
+    background-color:brown;
+}
